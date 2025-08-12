@@ -116,7 +116,15 @@ const API_SITES = {
     },
      pubu: {
         api: 'https://dh.ha.cn/api.php/provide/vod/',
-        name: '量子资源站'
+        name: '瀑布资源站'
+    },
+      maotai: {
+        api: 'https://caiji.maotaizy.cc/api.php/provide/vod/',
+        name: '瀑布资源站'
+    },
+      suoni: {
+        api: 'https://suoniapi.com/api.php/provide/vod/',
+        name: '索尼资源站'
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
