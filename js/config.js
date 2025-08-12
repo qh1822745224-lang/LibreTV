@@ -58,7 +58,7 @@ const API_SITES = {
         name: '360资源',
     },
     iqiyi: {
-        api: 'https://www.iqiyizyapi.com/api.php/provide/vod',
+        api: 'https://iqiyizyapi.com/api.php/provide/vod',
         name: 'iqiyi资源',
     },
     wolong: {
@@ -120,11 +120,15 @@ const API_SITES = {
     },
       maotai: {
         api: 'https://caiji.maotaizy.cc/api.php/provide/vod/',
-        name: '瀑布资源站'
+        name: '茅台资源站'
     },
       suoni: {
         api: 'https://suoniapi.com/api.php/provide/vod/',
         name: '索尼资源站'
+    },
+     jisu: {
+        api: 'https://jszyapi.com/api.php/provide/vod',
+        name: '急速资源站'
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
